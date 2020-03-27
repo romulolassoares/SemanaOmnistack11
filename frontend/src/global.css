@@ -27,7 +27,7 @@ form input {
     color: #333;
     border: 1px solid #DCDCE6;
     border-radius: 8px;
-    padding: 0 24;
+    padding: 0 24px;
 }
 
 form textarea {

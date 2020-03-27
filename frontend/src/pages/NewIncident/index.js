@@ -51,7 +51,7 @@ export default function NewIincident() {
                 </section>
 
                 <form onSubmit={handleNewIncident}>
-                    <input 
+                    <input
                         placeholder="Título do caso" 
                         value={title}
                         onChange={e => setTitle(e.target.value)}
